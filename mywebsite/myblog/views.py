@@ -1,7 +1,7 @@
-#class based view
-#function view
 from django.shortcuts import render
 from django.http import HttpResponse, request
+
+# Create your views here.
 
 def home_view(request):
     return render(request, 'home.html')
