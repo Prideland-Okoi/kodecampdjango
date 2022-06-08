@@ -6,6 +6,11 @@ Create a new Python virtual environment.
 
 Initialize it, and install Django in it.
 
+1. Create an application with your project folder
+2. Give this application three views
+3. Perform routing (URL mapping) to those views
+4. Each of these views must render an HTML file.
+
 Push your project to a new Public GitHub repository and submit the URL
 
 ## Technologies
